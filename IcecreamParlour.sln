@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IcecreamParlour.Service", "IcecreamParlour.Service\IcecreamParlour.Service.csproj", "{C303584E-387D-46FF-BD0A-6C821C97C67A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IcecreamParlour.Data", "IcecreamParlour.Data\IcecreamParlour.Data.csproj", "{8BEF9130-2498-4021-8200-5BE964D28371}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IceCreamParlour.UI", "IceCreamParlour.UI\IceCreamParlour.UI.csproj", "{3F510206-4AF1-424B-94BE-3807828BC9E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Icecream.Tests", "Icecream.Tests\Icecream.Tests.csproj", "{F8567D37-85AB-4A32-8546-F123603C7828}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C303584E-387D-46FF-BD0A-6C821C97C67A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C303584E-387D-46FF-BD0A-6C821C97C67A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C303584E-387D-46FF-BD0A-6C821C97C67A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C303584E-387D-46FF-BD0A-6C821C97C67A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BEF9130-2498-4021-8200-5BE964D28371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BEF9130-2498-4021-8200-5BE964D28371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BEF9130-2498-4021-8200-5BE964D28371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BEF9130-2498-4021-8200-5BE964D28371}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F510206-4AF1-424B-94BE-3807828BC9E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F510206-4AF1-424B-94BE-3807828BC9E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F510206-4AF1-424B-94BE-3807828BC9E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F510206-4AF1-424B-94BE-3807828BC9E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8567D37-85AB-4A32-8546-F123603C7828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8567D37-85AB-4A32-8546-F123603C7828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8567D37-85AB-4A32-8546-F123603C7828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8567D37-85AB-4A32-8546-F123603C7828}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

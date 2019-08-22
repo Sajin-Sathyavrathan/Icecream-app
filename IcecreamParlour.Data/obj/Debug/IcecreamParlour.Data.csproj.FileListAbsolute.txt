@@ -1,0 +1,12 @@
+C:\Users\sajin.sathyavrathan\Desktop\IcecreamParlourApp\IcecreamParlour.Data\bin\Debug\IcecreamParlour.Data.dll.config
+C:\Users\sajin.sathyavrathan\Desktop\IcecreamParlourApp\IcecreamParlour.Data\bin\Debug\IcecreamParlour.Data.dll
+C:\Users\sajin.sathyavrathan\Desktop\IcecreamParlourApp\IcecreamParlour.Data\bin\Debug\IcecreamParlour.Data.pdb
+C:\Users\sajin.sathyavrathan\Desktop\IcecreamParlourApp\IcecreamParlour.Data\bin\Debug\EntityFramework.dll
+C:\Users\sajin.sathyavrathan\Desktop\IcecreamParlourApp\IcecreamParlour.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sajin.sathyavrathan\Desktop\IcecreamParlourApp\IcecreamParlour.Data\bin\Debug\EntityFramework.xml
+C:\Users\sajin.sathyavrathan\Desktop\IcecreamParlourApp\IcecreamParlour.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sajin.sathyavrathan\Desktop\IcecreamParlourApp\IcecreamParlour.Data\obj\Debug\IcecreamParlour.Data.csprojResolveAssemblyReference.cache
+C:\Users\sajin.sathyavrathan\Desktop\IcecreamParlourApp\IcecreamParlour.Data\obj\Debug\IcecreamParlour.Data.Migrations.IceCreamParlourMigration.resources
+C:\Users\sajin.sathyavrathan\Desktop\IcecreamParlourApp\IcecreamParlour.Data\obj\Debug\IcecreamParlour.Data.csproj.GenerateResource.Cache
+C:\Users\sajin.sathyavrathan\Desktop\IcecreamParlourApp\IcecreamParlour.Data\obj\Debug\IcecreamParlour.Data.dll
+C:\Users\sajin.sathyavrathan\Desktop\IcecreamParlourApp\IcecreamParlour.Data\obj\Debug\IcecreamParlour.Data.pdb
